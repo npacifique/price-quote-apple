@@ -1,12 +1,5 @@
 ﻿/* target h1 headers */
-h1 {
-  color: #0366d6;
-}
 
-a.btn {
-  color: #0366d6;
-  text-decoration: underline;
-}
 
 /* Sticky footer styles
 -------------------------------------------------- */
@@ -36,6 +29,13 @@ body {
   background-color: #29A745;
 
 }
-.h1 {
-  color: #fff;
+
+.btn-primary {
+    background-color: #29A745 !important;
+    border-color: #29A745 !important;
+}
+
+h1, .h1{
+    color: #fff;
+    font-size: 4rem !important;
 }

@@ -6,13 +6,16 @@
     <title>@ViewData["Title"] - QuoteApp</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/lib/font-awesome/css/font-awesome.min.css" />
+    @* using the cdn because lib packge for font-awesome is not working in this project *@
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css"
+        integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous">
     <link rel="stylesheet" href="~/css/custom.css" />
 </head>
 <body>
     <header class="container">
         <div class="jumbotron">
-            <i class="fas fa-money-bill-alt"></i>
-            <H1 class="h1">Price Quotation</H1>
+            
+            <H1 class="h1 "><i class="fas fa-money-bill-alt"></i> Price Quotation</H1>
         </div>
     </header>
     <div class="container">
