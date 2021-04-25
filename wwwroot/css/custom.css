@@ -1,5 +1,5 @@
 ﻿/* target h1 headers */
-h1{
+h1 {
   color: #0366d6;
 }
 
@@ -30,4 +30,12 @@ html {
 body {
   /* Margin bottom by footer height */
   margin-bottom: 60px;
+}
+
+.jumbotron {
+  background-color: #29A745;
+
+}
+.h1 {
+  color: #fff;
 }

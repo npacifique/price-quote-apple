@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pacifiquentahurunga/Desktop/QuoteApp/QuoteApp.csproj",
+      "projectUniqueName": "/Users/pacifiquentahurunga/Desktop/price-quote-apple/QuoteApp.csproj",
       "projectName": "QuoteApp",
-      "projectPath": "/Users/pacifiquentahurunga/Desktop/QuoteApp/QuoteApp.csproj",
+      "projectPath": "/Users/pacifiquentahurunga/Desktop/price-quote-apple/QuoteApp.csproj",
       "packagesPath": "/Users/pacifiquentahurunga/.nuget/packages/",
-      "outputPath": "/Users/pacifiquentahurunga/Desktop/QuoteApp/obj/",
+      "outputPath": "/Users/pacifiquentahurunga/Desktop/price-quote-apple/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/pacifiquentahurunga/.nuget/NuGet/NuGet.Config"
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
       }
     }
   }
